@@ -4,6 +4,25 @@ const qs = require('querystring');
 const CACHE = '/tmp/tripotle.json';
 const API_KEY = fs.readFileSync('/home/jcreed/private/maps-api2', 'utf8').replace(/\n/g, '');
 
+
+function sqr(x) { return x * x }
+
+function sdist(a, b) {
+  return sqr(a.x - b.x) + sqr(a.y - b.y);
+}
+
+function circumcenter(a, b, c) {
+  const D = 2 * (a.x * ( b.y - c.y) + b.x * (c.y - a.y) + c.x * (a.y - b.y));
+  return {
+	 x: (1/D) * ((sqr(a.x) + sqr(a.y)) * (b.y - c.y) +
+					 (sqr(b.x) + sqr(b.y)) * (c.y - a.y) +
+					 (sqr(c.x) + sqr(c.y)) * (a.y - b.y)),
+	 y: (1/D) * ((sqr(a.x) + sqr(a.y)) * (c.x - b.x) +
+					 (sqr(b.x) + sqr(b.y)) * (a.x - c.x) +
+					 (sqr(c.x) + sqr(c.y)) * (b.x - a.x)),
+  };
+}
+
 function getContent(url) {
   return new Promise((res, rej) => {
     const lib = url.startsWith('https') ? require('https') : require('http');
@@ -76,7 +95,37 @@ async function go() {
 		chipotles[loc] = res;
 	 }
   }
-  console.log(Object.keys(chipotles));
+  const locs = Object.keys(chipotles).map(x => {
+	 const parts = x.split(',');
+	 return {
+		x: parseFloat(parts[0]),
+		y: parseFloat(parts[1])
+	 }
+  });
+
+  let record = 1000000;
+  let best = undefined;
+  for (let i = 0; i < locs.length; i++) {
+	 const pi = locs[i];
+	 for (let j = i+1; j < locs.length; j++) {
+		const pj = locs[j];
+		for (let k = j+1; k < locs.length; k++) {
+		  const pk = locs[k];
+		  const c = circumcenter(pi, pj, pk);
+		  console.log(pi, pj, pk);
+		  console.log(c);
+		  const d = sdist(c, pi); // XXX this is totally wrong because
+										  // I'm pretending lat/lng is x/y, but
+										  // maybe it'll give an approximately
+										  // correct ranking
+		  if (d < record) {
+			 record = d;
+			 best = [pi, pj, pk];
+		  }
+		}
+	 }
+  }
+  console.log(best, record);
 }
 
 go().then(x => console.log(x)).catch(x => console.error(x));
