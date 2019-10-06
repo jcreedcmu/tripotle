@@ -1,0 +1,876 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CqQCFQEAAHdqc3hE2wuAM9MAvJYuxyJjvq1LEySwfkgydz6jMxDDC9R0I3OonxO3plnOS8C5uSf88PXDg6oLKr1sXI2EcGjWmzk0BadqvQ27p-e2e4tVAQ8Kbxt6T-oQAWkVlitjHat4bl982azHOd-hgdZYq_Z5R3VzXbXugat95mW35YPxbgT5ldrSfst1e92_PrrLizM6uhos3J5pptVrfMxV6pZ8wHxro0D0Ily6vkSAYclk7nqpzpv_m5fbcs0Y0er0tLibbbTqyW_PfMuE9XWKvNpRbtfgrWJTkCWu6UoSEn45i8IcNIzfMRdqpCKLaPgxmFiIC3nlY7K8oG5_yS6HbvkATQN8gLIJrHKvi_6O973cZjGK29q7Ll4C49K9nUMamBIQihKXtUt_-F7XazDRxrzy4RoUolFVeLTy7bWlyXEzyeN9w-ZKY4w",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7127753,
+               "lng" : -74.0059728
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9175771,
+                  "lng" : -73.70027209999999
+               },
+               "southwest" : {
+                  "lat" : 40.4773991,
+                  "lng" : -74.25908989999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "7eae6a016a9c6f58e2044573fb8f14227b6e1f96",
+         "name" : "New York",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101183276958014087849/photos\"\u003eRobert Shireman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAklRwEBO2dfZHzoNGYj7tkrh4oBzsvi0RsgO6H9jGAmIf-2yfyvYhFiAQgUzcYoG_d2fkbEnKNeg4Y5mnnAxIkA5b44EDE05iokfVqnBfGf1eqmLQCMqd002fgZyyRT8KEhCt4R4aTyS0KG-hVHRV-ErJGhRbx6eHqREqeXx_L2maS3ZmLc5oQg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJOwg_06VPwokRYv534QaPC8g",
+         "reference" : "ChIJOwg_06VPwokRYv534QaPC8g",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7830052,
+               "lng" : -73.9736309
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7842953802915,
+                  "lng" : -73.97232461970849
+               },
+               "southwest" : {
+                  "lat" : 40.7815974197085,
+                  "lng" : -73.97502258029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "89ad60c56b87be4eb22f8b2e21a037dfd61b056a",
+         "name" : "The Excelsior Hotel",
+         "photos" : [
+            {
+               "height" : 2104,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105605621184412261779/photos\"\u003eDrazen Kovacevic\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsANGT3uDLtiMto_dwxpl_RzZk8hZJstRSgk-8jjhBifW1jIGcvGutwA1PgxwCMgHWRdWM2jdJulfvwFiW5IE-DaBEJCI7rWYHf2O8PdgX_ystJWVngeCTlhjM3fGUyvzEhDn0xm-XBKW_FxcS8Tho82kGhQNSL4BcAQXIp0HjT4m7Bg-eLmzeA",
+               "width" : 3072
+            }
+         ],
+         "place_id" : "ChIJj5ghhY9YwokRvlbqmzErHNg",
+         "plus_code" : {
+            "compound_code" : "Q2MG+6G New York, United States",
+            "global_code" : "87G8Q2MG+6G"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJj5ghhY9YwokRvlbqmzErHNg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 769,
+         "vicinity" : "45 West 81st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7834267,
+               "lng" : -73.9784952
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7847071802915,
+                  "lng" : -73.97722806970849
+               },
+               "southwest" : {
+                  "lat" : 40.7820092197085,
+                  "lng" : -73.97992603029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "da9e7b619bf5842c7ab9703125f9a37ab322f23c",
+         "name" : "The Lucerne Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108652745761009730182/photos\"\u003eTed Chue\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAR5HkvazUxMMUWwc7jEeJTTxvAKmzyK38nYA8Lwvr5Q7rbud5FjdWe3WqkSuDdqUm49frph52OoGzveYfO9l1c7BGKxHis5U_TINseProi4CeCwQvwtGDNLAZ772UEFYJEhCCuQtMwdlrZKgF1gnxKCvCGhRHMNWdbfLCT_vJ53LqOq1C_IX7fg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ19oTTvRYwokRVikZzFtQBuY",
+         "plus_code" : {
+            "compound_code" : "Q2MC+9J New York, United States",
+            "global_code" : "87G8Q2MC+9J"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ19oTTvRYwokRVikZzFtQBuY",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 601,
+         "vicinity" : "201 West 79th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7889031,
+               "lng" : -73.97510459999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7901301802915,
+                  "lng" : -73.97388086970849
+               },
+               "southwest" : {
+                  "lat" : 40.7874322197085,
+                  "lng" : -73.9765788302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "129883aad214ed3d64f32f107082207e1c0ad55a",
+         "name" : "The Belnord Hotel",
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111027411533192956242/photos\"\u003eMarco Tesi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAry3_vfQ94dJXcnXoSubQtekwu8cbeCesXgVHqNIdHjVwU9q4ugf45Q8UZlFL21c4Q4YBGZmcZqurs80W0W5vrlUsnCcLd1ljuda0Wm70tS-qRlqycigD6MpGb2QVPj7OEhAS_T46LnDqX1Agy9B9APIfGhQ9wN5WC-O0FoN7WWn9lf4OlxGEcw",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJvwN3iYNYwokRlAMgjbg1gF4",
+         "plus_code" : {
+            "compound_code" : "Q2QF+HX New York, United States",
+            "global_code" : "87G8Q2QF+HX"
+         },
+         "rating" : 4,
+         "reference" : "ChIJvwN3iYNYwokRlAMgjbg1gF4",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 745,
+         "vicinity" : "209 West 87th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7821875,
+               "lng" : -73.98030320000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.78362448029149,
+                  "lng" : -73.97908616970849
+               },
+               "southwest" : {
+                  "lat" : 40.78092651970849,
+                  "lng" : -73.9817841302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "1e65a657464065fe061e0cf99f75bd309823f218",
+         "name" : "Arthouse Hotel New York City",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101891882273861827736/photos\"\u003eArtHouse Hotel New York City\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAs99xKwTMKQFB158RsjDy_3XPEGvF0Z5BqlZ32t-Gs7ZbfRlO_ZQOTkHQYkNZ2utMf8DoZWjg8cUbaTGBoaEhViU1bhmQujmHZlo777GgToNRkgt9iuuPlzptg19DdYVbEhDtN0Ehj_VSmgrbbryTD2AeGhS_xCh18qiRgWlvb8-9a7ea7Sf9dw",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJAQAAAIVYwokRgjSEms1j39E",
+         "plus_code" : {
+            "compound_code" : "Q2J9+VV New York, United States",
+            "global_code" : "87G8Q2J9+VV"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJAQAAAIVYwokRgjSEms1j39E",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1119,
+         "vicinity" : "2178 Broadway, West 77th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.782425,
+               "lng" : -73.9811603
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7838969802915,
+                  "lng" : -73.97988116970849
+               },
+               "southwest" : {
+                  "lat" : 40.7811990197085,
+                  "lng" : -73.9825791302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "4d64b6ec7f4ff1405dd2e73d79f239bba4f93134",
+         "name" : "Hotel Belleclaire",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3744,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108247733189418700581/photos\"\u003eHotel Belleclaire\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArHn_kSqtA6pEKxfzgwsCotWbt-poz3P12w8H_hZkrKy0wNWqCEANNzpIUywMIesq15PPKaiijwxs7SOg0eQNLzzYpTiYuFrSytBW1WoAaY4metASDJ-Byeeo-JEwWqIIEhA7gh1PyksKzv1REdfhTnB4GhSJfPPkGRcfRWa1CS6YN7pdLqIu-Q",
+               "width" : 5616
+            }
+         ],
+         "place_id" : "ChIJZ-wCRohYwokRvnOFofo8F7A",
+         "plus_code" : {
+            "compound_code" : "Q2J9+XG New York, United States",
+            "global_code" : "87G8Q2J9+XG"
+         },
+         "rating" : 4,
+         "reference" : "ChIJZ-wCRohYwokRvnOFofo8F7A",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 939,
+         "vicinity" : "2175 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7855792,
+               "lng" : -73.9817166
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7868813802915,
+                  "lng" : -73.98037901970849
+               },
+               "southwest" : {
+                  "lat" : 40.7841834197085,
+                  "lng" : -73.98307698029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "173a9989f708de8eede5081f7f4110900e118201",
+         "name" : "Riverside Tower Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107487668684551181465/photos\"\u003eRene van Wijk - nl\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHPDKYh8JjyyICh65tKa3GqKOwv0EQfthMbHi0ZQ2AufilerKhWFe_b3uL-yTSA6hpA5IhOeABKaghKVUhIkESESyiueqOoI8Q7M2P0Rqilw78qvf47a-aHY_PDVgLcU2EhB8wG5GpZmxULCQbOqfv8vjGhTuV0D9RKVP04Ky3N8GoAaQ51eEsw",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ7dNP6odYwokRzsg_22RfqGI",
+         "plus_code" : {
+            "compound_code" : "Q2P9+68 New York, United States",
+            "global_code" : "87G8Q2P9+68"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJ7dNP6odYwokRzsg_22RfqGI",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 454,
+         "vicinity" : "80 Riverside Drive, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7762677,
+               "lng" : -73.9776081
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7775207302915,
+                  "lng" : -73.97632946970849
+               },
+               "southwest" : {
+                  "lat" : 40.7748227697085,
+                  "lng" : -73.97902743029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "8617f729c971c66835daba68f6b6fa8a694bbe06",
+         "name" : "La Quinta Inn & Suites by Wyndham New York City Central Park",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 270,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111280800583236519137/photos\"\u003eLa Quinta Inn &amp; Suites by Wyndham New York City Central Park\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwb-c33GK_QlbRTnI7jNCx1j1nfLc7jBEp6FlRWoYrY7XhhOzjShGuf3q1g2KkvsXckW-YXqL6id8S8e7XmZvANKGgdWUTM8TxbxpC5UpC1ckdEYMDca9tw5_bKgnYcWmEhBX5F23nmF90hx2mnzYJPIJGhQfoXPdqJ73rbhhM2yU_Ep4K9qwLw",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJE88lcYtYwokROrHaZcVRPCY",
+         "plus_code" : {
+            "compound_code" : "Q2GC+GX New York, United States",
+            "global_code" : "87G8Q2GC+GX"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJE88lcYtYwokROrHaZcVRPCY",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 548,
+         "vicinity" : "31 West 71st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7752711,
+               "lng" : -73.9633994
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7765714302915,
+                  "lng" : -73.96208626970851
+               },
+               "southwest" : {
+                  "lat" : 40.77387346970851,
+                  "lng" : -73.96478423029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b763e7f0f6ebbb322baf797ca8bd88c4fd04c674",
+         "name" : "The Mark Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107902582836376341378/photos\"\u003eTerrence Houlahan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQCWx45q0fN4u-b0fzSwTPjnlV2kDZFK-IX4q0_dv9dVuuk1mCbwyMcSsccsFVjJS3ONL7ShHaLcNoiTSb4_vCEUxUS5dmZqqiOFFjfNb9RXGwwolJj_CFj7-hvwmiyOsEhCSheMXeWR8ZGRmkIPoszfbGhShflLktKSWr6qC5eRHmwKdwcV7sQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJXYOiRJRYwokRm1i3c9R6WDA",
+         "plus_code" : {
+            "compound_code" : "Q2GP+4J New York, United States",
+            "global_code" : "87G8Q2GP+4J"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJXYOiRJRYwokRm1i3c9R6WDA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 494,
+         "vicinity" : "25 East 77th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793234,
+               "lng" : -73.9722428
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7945599302915,
+                  "lng" : -73.9709413197085
+               },
+               "southwest" : {
+                  "lat" : 40.7918619697085,
+                  "lng" : -73.97363928029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b7e74b09d5d8908c7e51019cc994e745536b2b28",
+         "name" : "Days Hotel by Wyndham on Broadway NYC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 257,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106717039924669370494/photos\"\u003eDays Hotel by Wyndham on Broadway NYC\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAFW4QfQ9shqbp4JpWA7AXmliCPtiZ9q8jXfwt9U4fJDZd8EWRx3ovCATD0qAcqFqxXnOrnyQf76nRNCvx6VEFQjH9d2mM7Cifx_b0V2fDfnXhgkBmWlsvZ1IIHKRF9tiHEhAj_xRyNZDHTZobYfT_YKlWGhQ7M_bcolsuf4tRMaxKEFXEcJTNPw",
+               "width" : 338
+            }
+         ],
+         "place_id" : "ChIJJa_dHSj2wokRsGexQ6u8Jhw",
+         "plus_code" : {
+            "compound_code" : "Q2VH+74 New York, United States",
+            "global_code" : "87G8Q2VH+74"
+         },
+         "rating" : 2.9,
+         "reference" : "ChIJJa_dHSj2wokRsGexQ6u8Jhw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1651,
+         "vicinity" : "215 West 94th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7744149,
+               "lng" : -73.96388929999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7758196302915,
+                  "lng" : -73.96255701970848
+               },
+               "southwest" : {
+                  "lat" : 40.7731216697085,
+                  "lng" : -73.96525498029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e68a0d914a0aa03ab918813ff55bb79e2a8aa3a4",
+         "name" : "The Surrey",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114722575143388981592/photos\"\u003eThe Surrey\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA13e-eCpgxod5Fk3diQdTy9Oy430r4CGtJtayrM6RMnJaFHF6TSzq5HoDPeqt-t4X3HDKRWKqzXeIMgqBh1QXh22pI4VwWfuwou1TPxiPSsevTIqqOC1ZtsORJu2KBS8eEhBtyK6qogaamfKWG2XZySrbGhT6YaEuz_PJfUwtBVEEacbK2ZX9OA",
+               "width" : 4500
+            }
+         ],
+         "place_id" : "ChIJCcAxi5RYwokRUyhXQvDUJsY",
+         "plus_code" : {
+            "compound_code" : "Q2FP+QC New York, United States",
+            "global_code" : "87G8Q2FP+QC"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJCcAxi5RYwokRUyhXQvDUJsY",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 245,
+         "vicinity" : "20 East 76th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7934789,
+               "lng" : -73.9721232
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7949010302915,
+                  "lng" : -73.9709085697085
+               },
+               "southwest" : {
+                  "lat" : 40.7922030697085,
+                  "lng" : -73.97360653029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b6bb6d872a34dac98eb777dfbc36b1181a14dbf1",
+         "name" : "The Hotel Newton",
+         "photos" : [
+            {
+               "height" : 450,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107164642097712986661/photos\"\u003eThe Hotel Newton\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4OFPNpRd6N-EdT-qw_zEpWaOCcCA8h5HSRZc52VrJwoi421KfVZo5Ta8abLvAGWUaJF14zGM53kywxtDP8fE1_A4ON5ILlY9Vp-0664xnBBEMQOXSzYHLTF4N74XiR4zEhAX7ioAkAH-WOiFBkdkrEIGGhQ61o7YZ-vPYAw-uU29x4yUJzwa8Q",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJKV8nGij2wokRBbBYLAxxsyU",
+         "plus_code" : {
+            "compound_code" : "Q2VH+95 New York, United States",
+            "global_code" : "87G8Q2VH+95"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJKV8nGij2wokRBbBYLAxxsyU",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 570,
+         "vicinity" : "2528 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.774416,
+               "lng" : -73.96315589999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.77589388029151,
+                  "lng" : -73.96173706970851
+               },
+               "southwest" : {
+                  "lat" : 40.77319591970851,
+                  "lng" : -73.96443503029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "532f7d2ff4089a761951181225c4f141df9aa93f",
+         "name" : "The Carlyle, A Rosewood Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1283,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110868416881454869966/photos\"\u003eThe Carlyle, A Rosewood Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtwnQajgrfUKnO3rBPQwHVD-puSIjREy0kBRMGPGLAiuRbamERwtrh3f6MOloflJot-9CXx4M7Sg5ewM2cGT9CLCcBuw1TUZbYkeK5d4JQexD1VO4NounOXfqMzlhXhW3EhBG8oLh9fw3ed2wGwj7enKVGhSOg1CQD35ZKgjQHkV8ZyKjUHiYbQ",
+               "width" : 1858
+            }
+         ],
+         "place_id" : "ChIJEQ6D9pRYwokR5TXzH7ACo7I",
+         "plus_code" : {
+            "compound_code" : "Q2FP+QP New York, United States",
+            "global_code" : "87G8Q2FP+QP"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJEQ6D9pRYwokR5TXzH7ACo7I",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 495,
+         "vicinity" : "35 East 76th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.78477,
+               "lng" : -73.955669
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7861545802915,
+                  "lng" : -73.9544385697085
+               },
+               "southwest" : {
+                  "lat" : 40.7834566197085,
+                  "lng" : -73.95713653029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ad67424594a810a8ce1dc00ac0d30ac55d26e06a",
+         "name" : "Hotel Wales",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1528,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106825924246734399635/photos\"\u003eHotel Wales\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkMO6yBFdOaSe9w0fhHQF98IjVB1ASGJC6m-ENwfp7Cfr87nI0AkvrI4MK7--I8gX6pIH6Tknmd0tYPJnX1yZyJJUoUqRJOnn4dPFkOgVfRsDGLxZ4gN2A4fNb_1YymMnEhDGLjCJQc6aeV2qW4inQJJrGhTZDLrrHSxDu7zXwAI2Uc8Fc6TMBA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJTakbxqNYwokRm4mt0vw9OgA",
+         "plus_code" : {
+            "compound_code" : "Q2MV+WP New York, United States",
+            "global_code" : "87G8Q2MV+WP"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJTakbxqNYwokRm4mt0vw9OgA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 299,
+         "vicinity" : "1295 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.795548,
+               "lng" : -73.97224299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7969687302915,
+                  "lng" : -73.9708408197085
+               },
+               "southwest" : {
+                  "lat" : 40.7942707697085,
+                  "lng" : -73.97353878029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a31770b22ebd6e9345e1b4514ff8f574f7445e34",
+         "name" : "Royal Park International Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113901739648897675994/photos\"\u003eAbner Palhares\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANQaoT_zV0B9GBd0vDNMxpWblEJ8Z0iq_ZQiXTqHe7hLX5Be0ioQrk8b6vPmpcmmOClDfMo7233yeYbMNPHJZuKW93xg4UzumMAhFd1DcF7mIh-M_Ufnz1yzxo7M-rhEXEhA0F11iXAr6aXRKavqu9IyUGhRfsZCEA8yqskno7Y2CqcNta46KQA",
+               "width" : 6016
+            }
+         ],
+         "place_id" : "ChIJ2--3iSj2wokR_7IEBW5FKOQ",
+         "plus_code" : {
+            "compound_code" : "Q2WH+64 New York, United States",
+            "global_code" : "87G8Q2WH+64"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJ2--3iSj2wokR_7IEBW5FKOQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 551,
+         "vicinity" : "258 West 97th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7798178,
+               "lng" : -73.95450989999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7812079302915,
+                  "lng" : -73.95313061970849
+               },
+               "southwest" : {
+                  "lat" : 40.7785099697085,
+                  "lng" : -73.9558285802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3bd46c9ae91bf6e8254f5410fe0aafb925d40697",
+         "name" : "The Franklin Hotel",
+         "photos" : [
+            {
+               "height" : 2204,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101456679240291506751/photos\"\u003eFrank Schmidt\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsrF6UM7A3i1AoSbngpuAVn3o6zKnFaGErEhpz_CND8Ymudp3teHOcB1OInwsjfNyTnqVS9Fi1HBy84xBE6Rv1jKHomJpvy2k6CiTM7g8RcXYAtsg-0N339Jqgmtmx8X_EhBzGh71moLQWkLMch1OjQSFGhT6IcqNG7vP3QZrM-jA0fImDgfPUw",
+               "width" : 3920
+            }
+         ],
+         "place_id" : "ChIJ10JGurxYwokR6f32knf8sPk",
+         "plus_code" : {
+            "compound_code" : "Q2HW+W5 New York, United States",
+            "global_code" : "87G8Q2HW+W5"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJ10JGurxYwokR6f32knf8sPk",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 259,
+         "vicinity" : "164 East 87th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.78132409999999,
+               "lng" : -73.97398819999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.78267455,
+                  "lng" : -73.97198744999999
+               },
+               "southwest" : {
+                  "lat" : 40.77975195,
+                  "lng" : -73.97557844999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "d9dd2c58ebb5c5cb4d00b28db933b7e220a34b5a",
+         "name" : "American Museum of Natural History",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110989728410759070561/photos\"\u003e鼻川水男\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIV8RnUIbAUTIlOC_VDbmWaVcaDk5EKS11Y1SX1p3rG0uLsxs_io8qvOfrSXB8Fao26H0tiZQimGM96GgxaQUIWi6OzyuUPbBFNwPBWmQPgLLksIB4H3zEEZu0AkLRJz7EhD9AC70JppzcjUNqGK3lseKGhS4TDkUdy0wtW8cBmmkc4QkNpcbJA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJCXoPsPRYwokRsV1MYnKBfaI",
+         "plus_code" : {
+            "compound_code" : "Q2JG+GC New York, United States",
+            "global_code" : "87G8Q2JG+GC"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJCXoPsPRYwokRsV1MYnKBfaI",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10153,
+         "vicinity" : "Central Park West & 79th St, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7805136,
+               "lng" : -73.9810847
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7818811302915,
+                  "lng" : -73.97987016970849
+               },
+               "southwest" : {
+                  "lat" : 40.7791831697085,
+                  "lng" : -73.9825681302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cc4c534e8475fed9ad68d4faf7c37ca45c22d9be",
+         "name" : "Beacon Theatre",
+         "photos" : [
+            {
+               "height" : 3072,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101047693556184659912/photos\"\u003eMigdalia Bachman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHHDoHlsg3Nz6TNTPF0_9V-lS6yG2-mEGeKagVj3qebQzMYMIvvudvtU8wwAVqc7M1K0UgWf0NVXrbndogprx5q5QQzBp28fd7Ovw0XccpK8bDLMmiGh5JKCr3iRFWu-0EhAjTa6OE_y7mlXEXVR-TvxTGhSqZPOGeVp7UVih30ImYLSNW_gmFQ",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJEdN5k4lYwokRuNPGGOZUwOQ",
+         "plus_code" : {
+            "compound_code" : "Q2J9+6H New York, United States",
+            "global_code" : "87G8Q2J9+6H"
+         },
+         "price_level" : 3,
+         "rating" : 4.6,
+         "reference" : "ChIJEdN5k4lYwokRuNPGGOZUwOQ",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3425,
+         "vicinity" : "2124 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7829796,
+               "lng" : -73.9589706
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.78443508029151,
+                  "lng" : -73.95776296970848
+               },
+               "southwest" : {
+                  "lat" : 40.78173711970851,
+                  "lng" : -73.9604609302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "aa09742d854b00192daed833e2a56750587e8185",
+         "name" : "Solomon R. Guggenheim Museum",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 717,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104115927706676173990/photos\"\u003eAlexandra Vender\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAvGHGibNLGkQIRDLaVfKryn4zh3gYcc1xFB6gSFp90JwhC7Yqy0XUu5hef6jPJDSXMmAMCyePZa4Xvaf7qqdq5__p3guDUdVPNmeaHjbOXjvSgdqttYZvNOd5v0nx3nZEhCg7r9O4ZTNDOv2kNsxWE1zGhTmqSkAVUpEGaLtC59m0hPQk1FRDQ",
+               "width" : 1077
+            }
+         ],
+         "place_id" : "ChIJmZ5emqJYwokRuDz79o0coAQ",
+         "plus_code" : {
+            "compound_code" : "Q2MR+5C Manhattan, New York, NY, United States",
+            "global_code" : "87G8Q2MR+5C"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJmZ5emqJYwokRuDz79o0coAQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12980,
+         "vicinity" : "1071 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7177545,
+               "lng" : -74.0431435
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.768867,
+                  "lng" : -74.020405
+               },
+               "southwest" : {
+                  "lat" : 40.661622,
+                  "lng" : -74.11705689999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "60cf2c68199517c6e8e6bc7e7634611475edf5b4",
+         "name" : "Jersey City",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116186662775270642799/photos\"\u003eNichelle Bottko\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-ePckinjVJhmVXgoyFjzIS1B7hjlGyd43N09NzUgIUEoQuHkuU-u2NLR3WsoSpHiUMLCj4ndqZexjVkSEpeJbKYH1umCZrKJMu4KzD-TOc_3DzQmc3RB9HiGGAkzPbi5EhBnYAWCMgXd3GvagV6nC8mOGhTZo7sBKiR1bxo-Zcw55KojNLbfBg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ3a-_JdJQwokR2SXNohPwSQI",
+         "reference" : "ChIJ3a-_JdJQwokR2SXNohPwSQI",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "Jersey City"
+      }
+   ],
+   "status" : "OK"
+}
+
